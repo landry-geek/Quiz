@@ -204,7 +204,7 @@ document.addEventListener("click",(e)=>{
                 
                 `);
             }
-            window.location.replace("../../landing.html");
+            window.location.replace("../../index.html");
         }
         nb_aleatoire=alea();//efa mety ito place ito
         fonc(tableau[nb_aleatoire])
